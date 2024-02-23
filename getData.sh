@@ -1,8 +1,8 @@
 #!/bin/bash
 
-start=194662
-end=194652
-n=21
+start=194612
+end=194582
+n=71
 
 while [ $start -gt $end ]
 do
