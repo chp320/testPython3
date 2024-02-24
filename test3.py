@@ -103,7 +103,7 @@ if __name__ == "__main__":
     # directory to save the files
     if output_directory == 'test':
         output_directory = "/Users/leo/Downloads/test"
-    output_directory = f"/Users/leo/Downloads/dragonball/part04/book{output_directory}"
+    output_directory = f"/Users/leo/Downloads/dragonball/part06/book{output_directory}"
     # print('output_directory: ', output_directory)
 
     # 에러 발생 시 해당 정보 담기 위한 리스트 선언
