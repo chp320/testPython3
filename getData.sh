@@ -1,7 +1,7 @@
 #!/bin/bash
 
-start=194393
-end=194342
+start=194863
+end=194779
 n=1
 
 while [ $start -gt $end ]
